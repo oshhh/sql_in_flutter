@@ -4,7 +4,7 @@ import 'package:mysql1/mysql1.dart';
 ConnectionSettings settings = new ConnectionSettings(
   host: "remotemysql.com",
   user: "lHyGk3wWaK",
-  password: "ER47Apezkr",
+  password: "*******",
   db: "lHyGk3wWaK",
 );
 
